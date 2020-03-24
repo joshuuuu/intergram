@@ -6,6 +6,7 @@ dist/
 
 # environment variables:
 .env
+TELEGRAM_TOKEN = 986784836:AAG9uU1mlGfAVXIFXKhmlWlNGOAXDlXS5c8
 
 # jetbrains folder:
 .idea/
